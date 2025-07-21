@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Keshav Agrawal
 
 ## 🚀 About Me
-** Passionate Full Stack Developer with 1+ years of hands-on experience in MERN stack development. Proficient in building
+ Passionate Full Stack Developer with 1+ years of hands-on experience in MERN stack development. Proficient in building
  scalable web applications, RESTful APIs, and modern frontend interfaces. Strong problem-solving skills with 200+ DSA problems
  solved. Seeking Software Engineer/Full Stack Developer roles to contribute technical expertise and drive innovative solutions.
 
@@ -37,27 +37,25 @@
 ## 🔥 Projects
 
 ### Talkie Walkie
-
  Real-time Chat Application: Built a full-featured real-time messaging platform with media sharing,
  group chats, online status, and message encryption for enhanced user experience. Tech Stack: MERN, Socket.io, DaisyUI,
  JWT, Cloudinary, Real-time Communication
-## Repo: github.com/keshavagr025/Chat-App 
-## Live: chat-app-n9ei.onrender.com
+### Repo: github.com/keshavagr025/Chat-App 
+### Live: chat-app-n9ei.onrender.com
  
 ###  Wellora The Healthcare
-
  Healthcare Management Platform: Developed a comprehensive wellness application with appointment
  booking system, habit tracking, payment gateway integration, and user analytics dashboard. Tech Stack: MongoDB,
  Express.js, React.js, Node.js, Stripe, Razorpay, Material-UI
  Features: Booking system, Payment integration, Dashboard, User management
-## Repo:github.com/keshavagr025/HealthifNow
+### Repo:github.com/keshavagr025/HealthifNow
  
 ### Zerodha Clone
  Stock Trading Platform: Engineered a full-stack stock trading application with real-time market data,
  WebSocket integration, advanced charting, and secure authentication system. Tech Stack: React.js, Node.js, Express.js,
  MongoDB, WebSocket, Chart.js, JWT, API Integration
  Features: Real-time data, Interactive charts, Portfolio management, Trading simulation Repo:
- github.com/keshavagr025/zerodha-clone
+ ### Repo: github.com/keshavagr025/zerodha-clone
 
  ### 📫 Let's Connect
 
