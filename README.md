@@ -146,7 +146,7 @@
     <p style="font-size: 16px; line-height: 1.6;">
       𝙰𝙸-𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝚠𝚎𝚋 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖 𝚏𝚘𝚛 
       <span style="font-weight: bold; color:#ef4444;">𝙰𝚃𝚂 𝚛𝚎𝚜𝚞𝚖𝚎 𝚊𝚗𝚊𝚕𝚢𝚜𝚒𝚜</span>, 
-      𝚜𝚔𝚒𝚕𝚕 𝚐𝚊𝚙 𝚍𝚎𝚝𝚎𝚌𝚝𝚒𝚘𝚗, 𝚊𝚗𝚍 𝚌𝚊𝚛𝚎𝚎𝚛 𝚛𝚘𝚊𝚍𝚖𝚊𝚙 𝚐𝚎𝚗𝚎𝚛𝚊𝚝𝚒𝚘𝚗 using OpenAI & Claude APIs.
+      𝚜𝚔𝚒𝚕𝚕 𝚐𝚊𝚙 𝚍𝚎𝚝𝚎𝚌𝚝𝚒𝚘𝚗, 𝚊𝚗𝚍 𝚌𝚊𝚛𝚎𝚎𝚛 𝚛𝚘𝚊𝚍𝚖𝚊𝚙 𝚐𝚎𝚗𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝚞𝚜𝚒𝚗𝚐 𝙾𝚙𝚎𝚗𝙰𝙸 & 𝙲𝚕𝚊𝚞𝚍𝚎 𝙰𝙿𝙸𝚜.
     </p>
     <p style="color:#6b7280;">
       𝙺𝚎𝚢 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚜: 𝚁𝚎𝚊𝚕-𝚝𝚒𝚖𝚎 𝚊𝚗𝚊𝚕𝚢𝚜𝚒𝚜, 𝙿𝙳𝙵 𝚙𝚊𝚛𝚜𝚒𝚗𝚐, 𝙰𝙸 𝚛𝚎𝚌𝚘𝚖𝚖𝚎𝚗𝚍𝚊𝚝𝚒𝚘𝚗𝚜, 𝚞𝚜𝚎𝚛 𝚍𝚊𝚜𝚑𝚋𝚘𝚊𝚛𝚍 𝚠𝚒𝚝𝚑 𝚊𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜.
@@ -166,10 +166,10 @@
       𝚋𝚞𝚒𝚕𝚝 𝚊 𝚏𝚞𝚕𝚕 𝚛𝚎𝚊𝚕-𝚝𝚒𝚖𝚎 𝚖𝚎𝚜𝚜𝚊𝚐𝚒𝚗𝚐 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖 with 
       <span style="font-weight:bold; color:#ef4444;">group chats</span>, 
       <span style="font-weight:bold; color:#ef4444;">media sharing</span>,
-      online status & encrypted messages.
+      𝚘𝚗𝚕𝚒𝚗𝚎 𝚜𝚝𝚊𝚝𝚞𝚜 & 𝚎𝚗𝚌𝚛𝚢𝚙𝚝𝚎𝚍 𝚖𝚎𝚜𝚜𝚊𝚐𝚎𝚜.
     </p>
     <p style="color:#6b7280;">
-      𝚃𝚎𝚌𝚑: WebSocket, Cloudinary uploads, secure JWT authentication.
+       𝚃𝚎𝚌𝚑: 𝚆𝚎𝚋𝚂𝚘𝚌𝚔𝚎𝚝, 𝙲𝚕𝚘𝚞𝚍𝚒𝚗𝚊𝚛𝚢 𝚞𝚙𝚕𝚘𝚊𝚍𝚜, 𝚜𝚎𝚌𝚞𝚛𝚎 𝙹𝚆𝚃 𝚊𝚞𝚝𝚑𝚎𝚗𝚝𝚒𝚌𝚊𝚝𝚒𝚘𝚗.
     </p>
     <a href="#" style="color:#3b82f6; font-weight:bold;">Repository</a> |
     <a href="#" style="color:#3b82f6; font-weight:bold;">Live Demo</a>
@@ -182,13 +182,13 @@
       𝙷𝚎𝚊𝚕𝚝𝚑𝚂𝚢𝚗𝚌 𝙰𝙸 – <span style="color:#3b82f6;">𝙷𝚎𝚊𝚕𝚝𝚑𝚌𝚊𝚛𝚎 𝙼𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝</span>
     </h3>
     <p style="font-size: 16px; line-height: 1.6;">
-      𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚍 𝚊 𝚌𝚘𝚖𝚙𝚛𝚎𝚑𝚎𝚗𝚜𝚒𝚟𝚎 wellness & healthcare app with 
-      <span style="color:#ef4444; font-weight:bold;">appointments</span>, 
-      <span style="color:#ef4444; font-weight:bold;">habit tracking</span>, 
-      <span style="color:#ef4444; font-weight:bold;">payments</span> & 
-      <span style="font-weight:bold;">analytics dashboards</span>.
+      𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚍 𝚊 𝚌𝚘𝚖𝚙𝚛𝚎𝚑𝚎𝚗𝚜𝚒𝚟𝚎 𝚠𝚎𝚕𝚕𝚗𝚎𝚜𝚜 & 𝚑𝚎𝚊𝚕𝚝𝚑𝚌𝚊𝚛𝚎 𝚊𝚙𝚙 𝚠𝚒𝚝𝚑 
+      <span style="color:#ef4444; font-weight:bold;">𝚊𝚙𝚙𝚘𝚒𝚗𝚝𝚖𝚎𝚗𝚝𝚜</span>, 
+      <span style="color:#ef4444; font-weight:bold;">𝚑𝚊𝚋𝚒𝚝 𝚝𝚛𝚊𝚌𝚔𝚒𝚗𝚐</span>, 
+      <span style="color:#ef4444; font-weight:bold;">𝚙𝚊𝚢𝚖𝚎𝚗𝚝𝚜</span> & 
+      <span style="font-weight:bold;">𝚊𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜 𝚍𝚊𝚜𝚑𝚋𝚘𝚊𝚛𝚍𝚜</span>.
     </p>
-    <p style="color:#6b7280;">Stripe + Razorpay integration, booking system, user management.</p>
+    <p style="color:#6b7280;"> 𝚂𝚝𝚛𝚒𝚙𝚎 + 𝚁𝚊𝚣𝚘𝚛𝚙𝚊𝚢 𝚒𝚗𝚝𝚎𝚐𝚛𝚊𝚝𝚒𝚘𝚗, 𝚋𝚘𝚘𝚔𝚒𝚗𝚐 𝚜𝚢𝚜𝚝𝚎𝚖, 𝚞𝚜𝚎𝚛 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝.</p>
     <a href="https://github.com/keshavagr025/HealthifNow" style="color:#3b82f6; font-weight:bold;">
       Repository ↗
     </a>
@@ -201,10 +201,10 @@
     </h3>
     <p style="font-size: 16px; line-height: 1.6;">
       𝚛𝚎𝚊𝚕-𝚝𝚒𝚖𝚎 stock trading with 
-      <span style="font-weight:bold; color:#ef4444;">live market data</span>, 
-      WebSocket integration & interactive Chart.js graphs.
+      <span style="font-weight:bold; color:#ef4444;">𝚕𝚒𝚟𝚎 𝚖𝚊𝚛𝚔𝚎𝚝 𝚍𝚊𝚝𝚊</span>, 
+      𝚆𝚎𝚋𝚂𝚘𝚌𝚔𝚎𝚝 𝚒𝚗𝚝𝚎𝚐𝚛𝚊𝚝𝚒𝚘𝚗 & 𝚒𝚗𝚝𝚎𝚛𝚊𝚌𝚝𝚒𝚟𝚎 𝙲𝚑𝚊𝚛𝚝.𝚓𝚜 𝚐𝚛𝚊𝚙𝚑𝚜.
     </p>
-    <p style="color:#6b7280;">Portfolio management, trading simulation & real-time data processing.</p>
+    <p style="color:#6b7280;">𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝, 𝚝𝚛𝚊𝚍𝚒𝚗𝚐 𝚜𝚒𝚖𝚞𝚕𝚊𝚝𝚒𝚘𝚗 & 𝚛𝚎𝚊𝚕-𝚝𝚒𝚖𝚎 𝚍𝚊𝚝𝚊 𝚙𝚛𝚘𝚌𝚎𝚜𝚜𝚒𝚗𝚐.</p>
     <a href="https://github.com/keshavagr025/Zerodha" style="color:#3b82f6; font-weight:bold;">
       Repository ↗
     </a>
