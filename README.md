@@ -60,7 +60,7 @@
 
 
  <br/>
-<h2 align="center">🚀 Let's Introduce Myself</h2>
+🚀 Let's Introduce Myself</h2>
 
 - 🔭 Working on **NLP | AI Bots | Web Development**
 - 🌱 Learning **AI & Competitive Programming (400+ DSA solved)**
