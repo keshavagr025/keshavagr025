@@ -62,7 +62,7 @@
 
  <br/>
  
-## 🚀 Let’s Introduce Mysel
+## 🚀 Let’s Introduce Myself
 
 - 🔭 Working on **NLP | AI Bots | Web Development**
 - 🌱 Learning **AI & Competitive Programming (400+ DSA solved)**
