@@ -102,28 +102,47 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
 
-
 **𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜:**
 
 <div align="center">
 
-<!-- Snake Animation -->
+<!-- 🎯 Isometric 3D Contribution Calendar -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=keshavagr025&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=🔥+Contribution+Activity" width="100%"/>
+
+<br/>
+
+<!-- 🐍 Pacman eating contributions -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keshavagr025/keshavagr025/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keshavagr025/keshavagr025/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/keshavagr025/keshavagr025/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keshavagr025/keshavagr025/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keshavagr025/keshavagr025/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/keshavagr025/keshavagr025/output/pacman-contribution-graph-dark.svg" />
 </picture>
 
 <br/>
 
-<!-- Stats Cards -->
+<!-- 🔥 Stats + Streak side by side -->
 <img src="https://github-readme-stats.vercel.app/api?username=keshavagr025&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=keshavagr025&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=keshavagr025&theme=tokyonight&hide_border=true&fire=DD2727&ring=DD2727&currStreakLabel=DD2727" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavagr025&theme=tokyonight&hide_border=true&layout=donut&langs_count=8" width="40%" />
+<!-- 🏆 Trophies full row -->
+<img src="https://github-profile-trophy.vercel.app/?username=keshavagr025&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" />
 
+<br/>
+
+<!-- 🍩 Donut language chart + 3D calendar side by side -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavagr025&theme=tokyonight&hide_border=true&layout=donut&langs_count=8" width="38%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keshavagr025&theme=tokyonight&utcOffset=5.5" width="38%" />
+
+<br/>
+
+<!-- ⚡ Profile summary card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keshavagr025&theme=tokyonight" width="100%" />
+
+</div>
+
+<br/>
 </div>
 
 
