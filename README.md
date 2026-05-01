@@ -156,13 +156,13 @@
 <section>
 
 
-<p align="right">
+<!-- <p align="right">
   <img 
     height="250" 
     width="400"
     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U4dWtlOThxNW04NjIyYWVwYzF4eGV4YnJhazBoN29veHM2cmx5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BIQjXVXfZHoOWdiTkW/giphy.gif"
   />
-</p>
+</p> -->
 
 
 
