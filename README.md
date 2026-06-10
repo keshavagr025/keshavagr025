@@ -64,7 +64,7 @@
 ### 🚀 Let's Introduce Myself
 
 - 🔭 Working on **Gen-AI | AI Bots | Web Development**
-- 🌱 Learning **AI & Competitive Programming (400+ DSA solved)**
+- 🌱 Learning **AI & Competitive Programming (500+ DSA solved)**
 - 👯 Open to collaborate on **Open Source & ML Projects**
 - 💬 Ask me anything 👉 [github.com/keshavagr025](https://github.com/keshavagr025)
 - 😄 Pronouns: **He/Him**
