@@ -155,17 +155,6 @@
 
 <section>
 
-
-<!-- <p align="right">
-  <img 
-    height="250" 
-    width="400"
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U4dWtlOThxNW04NjIyYWVwYzF4eGV4YnJhazBoN29veHM2cmx5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BIQjXVXfZHoOWdiTkW/giphy.gif"
-  />
-</p> -->
-
-
-
   <h2 style="font-size: 28px; font-weight: bold; margin-bottom: 15px;">
     𝙋 𝚁 𝙾 𝙹 𝙴 𝙲 𝚃 𝚂
   </h2>
@@ -173,73 +162,70 @@
   <!-- IntelliHire AI -->
   <div style="margin-bottom: 20px;">
     <h3 style="font-weight: bold; font-size: 20px; color:#10b981;">
-      𝚒𝚗𝚝𝚎𝚕𝚕𝚒𝙷𝚒𝚛𝚎 𝙰𝙸 (𝚛𝚎𝚊𝚍𝚢𝙱𝚘𝚜𝚜) – <span style="color:#3b82f6;">𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝</span>
+      𝚒𝚗𝚝𝚎𝚕𝚕𝚒𝙷𝚒𝚛𝚎 𝙰𝙸 (𝚛𝚎𝚊𝚍𝚢𝙱𝚘𝚜𝚜) – <span style="color:#3b82f6;">𝙼𝙴𝚁𝙽, 𝙵𝚊𝚜𝚝𝙰𝙿𝙸, 𝙿𝚢𝚝𝚑𝚘𝚗</span>
     </h3>
     <p style="font-size: 16px; line-height: 1.6;">
-      𝙰𝙸-𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝚠𝚎𝚋 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖 𝚏𝚘𝚛 
-      <span style="font-weight: bold; color:#ef4444;">𝙰𝚃𝚂 𝚛𝚎𝚜𝚞𝚖𝚎 𝚊𝚗𝚊𝚕𝚢𝚜𝚒𝚜</span>, 
-      𝚜𝚔𝚒𝚕𝚕 𝚐𝚊𝚙 𝚍𝚎𝚝𝚎𝚌𝚝𝚒𝚘𝚗, 𝚊𝚗𝚍 𝚌𝚊𝚛𝚎𝚎𝚛 𝚛𝚘𝚊𝚍𝚖𝚊𝚙 𝚐𝚎𝚗𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝚞𝚜𝚒𝚗𝚐 𝙾𝚙𝚎𝚗𝙰𝙸 & 𝙲𝚕𝚊𝚞𝚍𝚎 𝙰𝙿𝙸𝚜.
+      <span style="font-weight:bold; color:#3b82f6;">GitHub</span> | 
+      <span style="font-weight:bold; color:#3b82f6;">Live Demo</span>
     </p>
-    <p style="color:#6b7280;">
-      𝙺𝚎𝚢 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚜: 𝚁𝚎𝚊𝚕-𝚝𝚒𝚖𝚎 𝚊𝚗𝚊𝚕𝚢𝚜𝚒𝚜, 𝙿𝙳𝙵 𝚙𝚊𝚛𝚜𝚒𝚗𝚐, 𝙰𝙸 𝚛𝚎𝚌𝚘𝚖𝚖𝚎𝚗𝚍𝚊𝚝𝚒𝚘𝚗𝚜, 𝚞𝚜𝚎𝚛 𝚍𝚊𝚜𝚑𝚋𝚘𝚊𝚛𝚍 𝚠𝚒𝚝𝚑 𝚊𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜.
+    <p style="font-size: 16px; line-height: 1.6; color:#6b7280;">
+      › Implemented scalable backend workflows integrating multiple external APIs for resume analysis, ATS scoring, recommendation systems, and career roadmap generation.
     </p>
-    <a href="https://github.com/keshavagr025/readyBoss" style="color:#3b82f6; font-weight:bold;">
-      Repository ↗
-    </a>
+    <p style="font-size: 16px; line-height: 1.6; color:#6b7280;">
+      › Awarded <span style="font-weight: bold; color:#ef4444;">Runner-up at Hacksagon 2025</span> among 600+ teams.
+    </p>
+    <p style="font-size: 16px; line-height: 1.6; color:#6b7280;">
+      › Automated PDF parsing and surfaced tailored recommendations via interactive dashboards, reducing average candidate screening time by approximately <span style="font-weight:bold; color:#ef4444;">40%</span>.
+    </p>
   </div>
 
-
-  <!-- ConvoSphere -->
+  <!-- CortexCraft AI -->
   <div style="margin-bottom: 20px;">
     <h3 style="font-weight: bold; font-size: 20px; color:#10b981;">
-      𝙲𝚘𝚗𝚟𝚘𝚂𝚙𝚑𝚎𝚛𝚎 – <span style="color:#3b82f6;">𝚁𝚎𝚊𝚕-𝚝𝚒𝚖𝚎 𝙲𝚑𝚊𝚝 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗</span>
+      𝙲𝚘𝚛𝚝𝚎𝚡𝙲𝚛𝚊𝚏𝚝 𝙰𝙸 – <span style="color:#3b82f6;">𝙰𝙸 𝙼𝚘𝚌𝚔 𝙸𝚗𝚝𝚎𝚛𝚟𝚒𝚎𝚠 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖</span>
     </h3>
     <p style="font-size: 16px; line-height: 1.6;">
-      𝚋𝚞𝚒𝚕𝚝 𝚊 𝚏𝚞𝚕𝚕 𝚛𝚎𝚊𝚕-𝚝𝚒𝚖𝚎 𝚖𝚎𝚜𝚜𝚊𝚐𝚒𝚗𝚐 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖 with 
-      <span style="font-weight:bold; color:#ef4444;">group chats</span>, 
-      <span style="font-weight:bold; color:#ef4444;">media sharing</span>,
-      𝚘𝚗𝚕𝚒𝚗𝚎 𝚜𝚝𝚊𝚝𝚞𝚜 & 𝚎𝚗𝚌𝚛𝚢𝚙𝚝𝚎𝚍 𝚖𝚎𝚜𝚜𝚊𝚐𝚎𝚜.
+      <span style="font-weight:bold; color:#3b82f6;">𝙼𝙴𝚁𝙽, 𝙵𝚊𝚜𝚝𝙰𝙿𝙸, 𝙶𝚛𝚘𝚖 (𝙻𝚕𝚊𝚖𝚊 3.3), 𝚂𝚘𝚌𝚔𝚎𝚝.𝙸𝙾</span>
     </p>
-    <p style="color:#6b7280;">
-       𝚃𝚎𝚌𝚑: 𝚆𝚎𝚋𝚂𝚘𝚌𝚔𝚎𝚝, 𝙲𝚕𝚘𝚞𝚍𝚒𝚗𝚊𝚛𝚢 𝚞𝚙𝚕𝚘𝚊𝚍𝚜, 𝚜𝚎𝚌𝚞𝚛𝚎 𝙹𝚆𝚃 𝚊𝚞𝚝𝚑𝚎𝚗𝚝𝚒𝚌𝚊𝚝𝚒𝚘𝚗.
-    </p>
-    <a href="#" style="color:#3b82f6; font-weight:bold;">Repository</a> |
-    <a href="#" style="color:#3b82f6; font-weight:bold;">Live Demo</a>
-  </div>
-
-
-  <!-- HealthSync AI -->
-  <div style="margin-bottom: 20px;">
-    <h3 style="font-weight: bold; font-size: 20px; color:#10b981;">
-      𝙷𝚎𝚊𝚕𝚝𝚑𝚂𝚢𝚗𝚌 𝙰𝙸 – <span style="color:#3b82f6;">𝙷𝚎𝚊𝚕𝚝𝚑𝚌𝚊𝚛𝚎 𝙼𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝</span>
-    </h3>
     <p style="font-size: 16px; line-height: 1.6;">
-      𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚍 𝚊 𝚌𝚘𝚖𝚙𝚛𝚎𝚑𝚎𝚗𝚜𝚒𝚟𝚎 𝚠𝚎𝚕𝚕𝚗𝚎𝚜𝚜 & 𝚑𝚎𝚊𝚕𝚝𝚑𝚌𝚊𝚛𝚎 𝚊𝚙𝚙 𝚠𝚒𝚝𝚑 
-      <span style="color:#ef4444; font-weight:bold;">𝚊𝚙𝚙𝚘𝚒𝚗𝚝𝚖𝚎𝚗𝚝𝚜</span>, 
-      <span style="color:#ef4444; font-weight:bold;">𝚑𝚊𝚋𝚒𝚝 𝚝𝚛𝚊𝚌𝚔𝚒𝚗𝚐</span>, 
-      <span style="color:#ef4444; font-weight:bold;">𝚙𝚊𝚢𝚖𝚎𝚗𝚝𝚜</span> & 
-      <span style="font-weight:bold;">𝚊𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜 𝚍𝚊𝚜𝚑𝚋𝚘𝚊𝚛𝚍𝚜</span>.
+      <span style="font-weight:bold; color:#3b82f6;">GitHub</span> | 
+      <span style="font-weight:bold; color:#3b82f6;">Live Demo</span>
     </p>
-    <p style="color:#6b7280;"> 𝚂𝚝𝚛𝚒𝚙𝚎 + 𝚁𝚊𝚣𝚘𝚛𝚙𝚊𝚢 𝚒𝚗𝚝𝚎𝚐𝚛𝚊𝚝𝚒𝚘𝚗, 𝚋𝚘𝚘𝚔𝚒𝚗𝚐 𝚜𝚢𝚜𝚝𝚎𝚖, 𝚞𝚜𝚎𝚛 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝.</p>
-    <a href="https://github.com/keshavagr025/HealthifNow" style="color:#3b82f6; font-weight:bold;">
-      Repository ↗
-    </a>
+    <p style="font-size: 16px; line-height: 1.6; color:#6b7280;">
+      › Architected an AI mock interview platform using <span style="font-weight:bold; color:#ef4444;">Groq (Llama 3.3)</span>, increasing candidate shortlist rates by <span style="font-weight:bold; color:#ef4444;">25%</span> and improving interview performance across 100+ sessions.
+    </p>
+    <p style="font-size: 16px; line-height: 1.6; color:#6b7280;">
+      › Enabled live collaboration for <span style="font-weight:bold; color:#ef4444;">50+ concurrent users</span> via Socket.IO with sub-100 ms message delivery.
+    </p>
+    <p style="font-size: 16px; line-height: 1.6; color:#6b7280;">
+      › Embedded <span style="font-weight:bold; color:#ef4444;">5 AI modules</span> including summaries, quizzes, flashcards, mind maps, and interview coaching with Recharts analytics dashboards.
+    </p>
   </div>
 
   <!-- TradeX AI -->
   <div style="margin-bottom: 20px;">
     <h3 style="font-weight: bold; font-size: 20px; color:#10b981;">
-      𝚃𝚛𝚊𝚍𝚎𝚇 𝙰𝙸 – <span style="color:#3b82f6;">𝚂𝚝𝚘𝚌𝚔 𝚃𝚛𝚊𝚍𝚒𝚗𝚐 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖</span>
+      𝚃𝚛𝚊𝚍𝚎𝚇 𝙰𝙸 (𝚉𝚎𝚛𝚘𝚍𝚑𝚊) – <span style="color:#3b82f6;">𝚂𝚝𝚘𝚌𝚔 𝚃𝚛𝚊𝚍𝚒𝚗𝚐 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖</span>
     </h3>
     <p style="font-size: 16px; line-height: 1.6;">
-      𝚛𝚎𝚊𝚕-𝚝𝚒𝚖𝚎 stock trading with 
-      <span style="font-weight:bold; color:#ef4444;">𝚕𝚒𝚟𝚎 𝚖𝚊𝚛𝚔𝚎𝚝 𝚍𝚊𝚝𝚊</span>, 
-      𝚆𝚎𝚋𝚂𝚘𝚌𝚔𝚎𝚝 𝚒𝚗𝚝𝚎𝚐𝚛𝚊𝚝𝚒𝚘𝚗 & 𝚒𝚗𝚝𝚎𝚛𝚊𝚌𝚝𝚒𝚟𝚎 𝙲𝚑𝚊𝚛𝚝.𝚓𝚜 𝚐𝚛𝚊𝚙𝚑𝚜.
+      <span style="font-weight:bold; color:#3b82f6;">𝙼𝙴𝚁𝙽, 𝙲𝚑𝚊𝚛𝚝.𝚓𝚜, 𝙹𝚆𝚃, 𝙼𝚘𝚗𝚐𝙾𝙳𝙱</span>
     </p>
-    <p style="color:#6b7280;">𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝, 𝚝𝚛𝚊𝚍𝚒𝚗𝚐 𝚜𝚒𝚖𝚞𝚕𝚊𝚝𝚒𝚘𝚗 & 𝚛𝚎𝚊𝚕-𝚝𝚒𝚖𝚎 𝚍𝚊𝚝𝚊 𝚙𝚛𝚘𝚌𝚎𝚜𝚜𝚒𝚗𝚐.</p>
-    <a href="https://github.com/keshavagr025/Zerodha" style="color:#3b82f6; font-weight:bold;">
-      Repository ↗
-    </a>
+    <p style="font-size: 16px; line-height: 1.6;">
+      <span style="font-weight:bold; color:#3b82f6;">GitHub</span> | 
+      <span style="font-weight:bold; color:#3b82f6;">Live Demo</span>
+    </p>
+    <p style="font-size: 16px; line-height: 1.6; color:#6b7280;">
+      › Constructed a Zerodha-inspired stock trading platform with authentication, portfolio management, holdings tracking, and watchlist functionality.
+    </p>
+    <p style="font-size: 16px; line-height: 1.6; color:#6b7280;">
+      › Initiated RESTful APIs and MongoDB-backed services to manage orders, positions, transactions, and user portfolios.
+    </p>
+    <p style="font-size: 16px; line-height: 1.6; color:#6b7280;">
+      › Implemented JWT authentication and <span style="font-weight:bold; color:#ef4444;">role-based access control</span> to secure trading operations and user data.
+    </p>
+    <p style="font-size: 16px; line-height: 1.6; color:#6b7280;">
+      › Integrated Chart.js-powered market visualizations and analytics dashboards for 10+ simulated stocks, delivering an intuitive trading experience.
+    </p>
   </div>
 
 </section>
