@@ -230,7 +230,19 @@
 
 </section>
 
+<section>
+
+  <h2 style="font-size: 28px; font-weight: bold; margin-bottom: 15px;">
+    🏅 𝙷𝙾𝙻𝙾𝙿𝙸𝙽 𝙱𝙰𝙳𝙶𝙴𝚂
+  </h2>
+  <div align="center">
+    <img src="WEBP/badges.png" width="900" alt="Holopin Badges">
+  </div>
+
+</section>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900">
+
 
 <div align="center">
 
