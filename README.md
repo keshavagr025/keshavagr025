@@ -5,7 +5,8 @@
 </h1>
 
 <div style="text-align:center;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDU0ZTJkMXF5OTI1ZTgweGVteGc5dHVndzdvbWJsdjV2c3pteGJxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="900" alt="Funny Coding GIF">
+  <img align="right" alt="Coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  width="900">
+  <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDU0ZTJkMXF5OTI1ZTgweGVteGc5dHVndzdvbWJsdjV2c3pteGJxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="900" alt="Funny Coding GIF"> -->
 </div>
 
 <br><br>
@@ -107,7 +108,7 @@
 <div align="center">
 
 <!-- 🎯 Isometric 3D Contribution Calendar -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keshavagr025&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=🔥+Contribution+Activity" width="100%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshavagr025&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=🔥+Contribution+Activity" width="100%"/> -->
 
 <br/>
 
@@ -121,19 +122,19 @@
 <br/>
 
 <!-- 🔥 Stats + Streak side by side -->
-<img src="https://github-readme-stats.vercel.app/api?username=keshavagr025&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=keshavagr025&theme=tokyonight&hide_border=true&fire=DD2727&ring=DD2727&currStreakLabel=DD2727" width="49%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=keshavagr025&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=keshavagr025&theme=tokyonight&hide_border=true&fire=DD2727&ring=DD2727&currStreakLabel=DD2727" width="49%" /> -->
 
 <br/>
 
 <!-- 🏆 Trophies full row -->
-<img src="https://github-profile-trophy.vercel.app/?username=keshavagr025&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=keshavagr025&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" /> -->
 
 <br/>
 
 <!-- 🍩 Donut language chart + 3D calendar side by side -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavagr025&theme=tokyonight&hide_border=true&layout=donut&langs_count=8" width="38%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keshavagr025&theme=tokyonight&utcOffset=5.5" width="38%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavagr025&theme=tokyonight&hide_border=true&layout=donut&langs_count=8" width="38%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keshavagr025&theme=tokyonight&utcOffset=5.5" width="38%" /> -->
 
 <br/>
 
