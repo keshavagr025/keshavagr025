@@ -69,7 +69,7 @@
 - 👯 Open to collaborate on **Open Source & ML Projects**
 - 💬 Ask me anything 👉 [github.com/keshavagr025](https://github.com/keshavagr025)
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: *The best part of the journey is how it shapes you.*
+- ⚡ Fun fact: _The best part of the journey is how it shapes you._
 
 </td>
 <td valign="top" width="40%" align="right">
@@ -85,16 +85,19 @@
 <div align="center">
 
 ### Languages
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,kotlin,html,css&perline=8" />
 </a>
 
 ### Databases
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,firebase&perline=8" />
 </a>
 
 ### Tools & DevOps
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=docker,aws,git,github,bootstrap,angular,jupyter,linux&perline=8" />
 </a>
@@ -142,153 +145,112 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keshavagr025&theme=tokyonight" width="100%" />
 
 </div>
+<!-- 
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%"> -->
+
+<h2 align="center">💼 Featured Engineering &amp; Production AI Systems</h2>
+<p align="center">
+  <i>Architected for real-world impact — Edge Computer Vision · Sub-second LLM Inference · Multimodal Biometrics · WebRTC P2P Communication</i>
+</p>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3>🛣️ MĀRG-DRISHTI</h3>
+<img src="https://img.shields.io/badge/GovTech-Smart_City_AI-2563eb?style=flat-square"/>
+
+Real-time road distress &amp; pothole segmentation using fine-tuned **YOLOv8** on dashcam video feeds. Auto-geotags GPS coordinates, estimates multi-factor damage severity, and dispatches automated maintenance tickets to **NHAI, PWD Delhi, MCD &amp; MoRTH**.
+
+<sub>`Python` · `YOLOv8` · `FastAPI` · `React` · `Leaflet GPS`</sub>
+
+<a href="https://pothole-detection-pi-lovat.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C781?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/keshavagr025/Pothole-Detection"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📸 SayCheese.ai</h3>
+<img src="https://img.shields.io/badge/Security-Multimodal_Biometrics-9333ea?style=flat-square"/>
+
+Dual-biometric anti-proxy attendance system fusing **Facial Recognition** (128D dlib + Linear SVM) and **Voice Biometrics** (Resemblyzer + Librosa). Detects every student in a full classroom photo in seconds, with dynamic QR enrollment.
+
+<sub>`Python` · `dlib (128D)` · `Resemblyzer` · `React` · `Supabase`</sub>
+
+<a href="https://saycheeseai.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C781?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/keshavagr025/SayCheese.ai"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧠 CortexCraft AI</h3>
+<img src="https://img.shields.io/badge/GenAI-Real--Time_LLMs-ea580c?style=flat-square"/>
+
+Sub-second AI interview simulator running on **Groq (Llama 3.3 LPU)** for near-zero conversational latency. Socket.IO pipeline handles 50+ concurrent users across 5 modules — mind maps, flashcards, quizzes &amp; Recharts analytics.
+
+<sub>`Groq Llama 3.3` · `FastAPI` · `React 19` · `Socket.IO` · `MongoDB`</sub>
+
+<a href="https://class-topper-web.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-00C781?style=flat-square&logo=render&logoColor=white"/></a>
+<a href="https://github.com/keshavagr025/class-topper"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🩺 Wellora (HealthifNow)</h3>
+<img src="https://img.shields.io/badge/Telehealth-P2P_WebRTC-dc2626?style=flat-square"/>
+
+Low-latency peer-to-peer HD video consultations built on **WebRTC** with custom **Socket.IO** signaling. Full healthcare lifecycle — slot scheduling, doctor calendars, e-prescriptions — secured with JWT &amp; role-based access.
+
+<sub>`WebRTC` · `Socket.IO` · `React 18` · `Node.js/Express` · `MongoDB`</sub>
+
+<a href="https://appoint-to-doctor.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C781?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/keshavagr025/AppointToDoctor"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" align="center">
+
+<h3>🐰 Bunny OS</h3>
+<img src="https://img.shields.io/badge/Systems-WebAssembly_OS-16a34a?style=flat-square"/>
+
+<p align="left">In-browser desktop OS simulator with full window management (dragging, resizing, z-index depth). Runs a client-side relational database via <b>sql.js</b> (WebAssembly SQLite), plus an interactive file-system terminal, process manager, and a retro games suite.</p>
+
+<sub>`React 19` · `Tailwind v4` · `Zustand` · `Framer Motion` · `sql.js (Wasm)`</sub>
+
+<a href="https://github.com/keshavagr025/osbyfun"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
 
 <br/>
+
+<!-- <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%"> -->
+
+<div align="center">
+
+<!-- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="380" alt="compiling meme"/> -->
+
+<br/><br/>
+
+<!-- <a href="https://github.com/keshavagr025">
+  <img src="https://readme-jokes.vercel.app/icon?theme=dark" alt="Random dev joke"/>
+</a> -->
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote"/>
+
 </div>
 
+<details>
+<summary>🎲 <b>Click for a totally scientific developer superstition</b></summary>
+<br/>
+<p align="center"><i>"It works on my machine" is not a bug report, it's a lifestyle. 🐛☕</i></p>
+</details>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=keshavagr025&label=Profile%20views&color=0e75b6&style=flat" alt="keshavagr025" /> </p>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-<br><br/>
-<br><br/>
-
-
-<section>
-
-  <h2 style="font-size: 28px; font-weight: bold; margin-bottom: 20px;">
-    🚀 𝙁 𝙀 𝘼 𝙏 𝙐 𝙍 𝙀 𝘿 &nbsp; 𝙋 𝙍 𝙾 𝙹 𝙴 𝙲 𝙏 𝚂
-  </h2>
-
-  <!-- MĀRG-DRISHTI -->
-  <div style="margin-bottom: 25px;">
-    <h3 style="font-weight: bold; font-size: 20px; color:#10b981; margin-bottom: 6px;">
-      🛣️ 𝙼Ā𝚁𝙶-𝙳𝚁𝙸𝚂𝙷𝚃𝙸 – <span style="color:#3b82f6;">National Road Distress Surveillance Portal (PotholeAI)</span>
-    </h3>
-    <p style="font-size: 15px; margin: 4px 0 10px 0;">
-      <span style="color:#8b949e; font-weight: 500;">Tech Stack:</span> <span style="color:#e6edf3;">YOLOv8, Computer Vision, Python, FastAPI, React, Leaflet/Mapbox (GPS)</span>
-    </p>
-    <p style="font-size: 15px; margin-bottom: 8px;">
-      🔗 <a href="https://github.com/keshavagr025/Pothole-Detection" target="_blank" style="font-weight:bold; color:#3b82f6; text-decoration: none;">GitHub Repository</a> &nbsp;|&nbsp; 
-      🌐 <a href="https://pothole-detection-pi-lovat.vercel.app" target="_blank" style="font-weight:bold; color:#10b981; text-decoration: none;">Live Demo</a>
-    </p>
-    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
-      › End-to-end Smart City surveillance platform utilizing <span style="font-weight:bold; color:#ef4444;">YOLOv8</span> to detect potholes and road distress from dashcam footage and mobile video streams.
-    </p>
-    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
-      › Automatically geo-tags precise <span style="font-weight:bold; color:#ef4444;">GPS coordinates</span> and computes multi-factor severity estimates for damaged road surfaces.
-    </p>
-    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
-      › Dispatches automated maintenance tickets with strict SLAs to responsible civic authorities (<span style="font-weight:bold; color:#3b82f6;">NHAI, PWD Delhi, MCD, MoRTH</span>) with operational resolution tracking.
-    </p>
-  </div>
-
-  <!-- SayCheese.ai -->
-  <div style="margin-bottom: 25px;">
-    <h3 style="font-weight: bold; font-size: 20px; color:#10b981; margin-bottom: 6px;">
-      📸 𝚂𝚊𝚢𝙲𝚑𝚎𝚎𝚜𝚎.𝚊𝚒 – <span style="color:#3b82f6;">Multimodal AI Attendance Management</span>
-    </h3>
-    <p style="font-size: 15px; margin: 4px 0 10px 0;">
-      <span style="color:#8b949e; font-weight: 500;">Tech Stack:</span> <span style="color:#e6edf3;">dlib (128D Face Encodings), Resemblyzer (Voice Biometrics), Scikit-Learn (SVC), Python, React, Supabase</span>
-    </p>
-    <p style="font-size: 15px; margin-bottom: 8px;">
-      🔗 <a href="https://github.com/keshavagr025/SayCheese.ai" target="_blank" style="font-weight:bold; color:#3b82f6; text-decoration: none;">GitHub Repository</a> &nbsp;|&nbsp; 
-      🌐 <a href="https://saycheeseai.vercel.app" target="_blank" style="font-weight:bold; color:#10b981; text-decoration: none;">Live Demo</a>
-    </p>
-    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
-      › Modern classroom attendance system fusing <span style="font-weight:bold; color:#ef4444;">Facial Recognition</span> (128D encodings via dlib & Linear SVM) and <span style="font-weight:bold; color:#ef4444;">Voice Biometrics</span> (Resemblyzer & Librosa) to eliminate proxy attendance.
-    </p>
-    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
-      › Automatically scans classroom photos to detect and log multiple students simultaneously within seconds.
-    </p>
-    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
-      › Generates instant QR codes for swift student onboarding with real-time sync and analytics on <span style="font-weight:bold; color:#3b82f6;">Supabase</span>.
-    </p>
-  </div>
-
-  <!-- CortexCraft AI -->
-  <div style="margin-bottom: 25px;">
-    <h3 style="font-weight: bold; font-size: 20px; color:#10b981; margin-bottom: 6px;">
-      🧠 𝙲𝚘𝚛𝚝𝚎𝚡𝙲𝚛𝚊𝚏𝚝 𝙰𝙸 – <span style="color:#3b82f6;">AI Mock Interview & Developer Learning Platform</span>
-    </h3>
-    <p style="font-size: 15px; margin: 4px 0 10px 0;">
-      <span style="color:#8b949e; font-weight: 500;">Tech Stack:</span> <span style="color:#e6edf3;">Groq (Llama 3.3), FastAPI, React 19, Socket.IO, MongoDB, Recharts</span>
-    </p>
-    <p style="font-size: 15px; margin-bottom: 8px;">
-      🔗 <a href="https://github.com/keshavagr025/class-topper" target="_blank" style="font-weight:bold; color:#3b82f6; text-decoration: none;">GitHub Repository</a> &nbsp;|&nbsp; 
-      🌐 <a href="https://class-topper-web.onrender.com" target="_blank" style="font-weight:bold; color:#10b981; text-decoration: none;">Live Demo</a>
-    </p>
-    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
-      › Architected an AI mock interview simulator using <span style="font-weight:bold; color:#ef4444;">Groq (Llama 3.3)</span> for ultra-low latency, real-time feedback that boosted interview performance across 100+ sessions.
-    </p>
-    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
-      › Powers low-latency real-time collaboration for <span style="font-weight:bold; color:#ef4444;">50+ concurrent users</span> via Socket.IO with sub-100 ms message delivery.
-    </p>
-    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
-      › Embedded <span style="font-weight:bold; color:#3b82f6;">5 dynamic AI modules</span>: interactive quizzes, mind maps, flashcards, automated summaries, and live coaching analytics.
-    </p>
-  </div>
-
-  <!-- Wellora (AppointToDoctor) -->
-  <div style="margin-bottom: 25px;">
-    <h3 style="font-weight: bold; font-size: 20px; color:#10b981; margin-bottom: 6px;">
-      🩺 𝚆𝚎𝚕𝚕𝚘𝚛𝚊 (𝙷𝚎𝚊𝚕𝚝𝚑𝚒𝚏𝙽𝚘𝚠) – <span style="color:#3b82f6;">Telehealth & Real-Time Doctor Consultation</span>
-    </h3>
-    <p style="font-size: 15px; margin: 4px 0 10px 0;">
-      <span style="color:#8b949e; font-weight: 500;">Tech Stack:</span> <span style="color:#e6edf3;">WebRTC, Socket.IO, React 18, Node.js, Express, MongoDB, Tailwind CSS</span>
-    </p>
-    <p style="font-size: 15px; margin-bottom: 8px;">
-      🔗 <a href="https://github.com/keshavagr025/AppointToDoctor" target="_blank" style="font-weight:bold; color:#3b82f6; text-decoration: none;">GitHub Repository</a> &nbsp;|&nbsp; 
-      🌐 <a href="https://appoint-to-doctor.vercel.app" target="_blank" style="font-weight:bold; color:#10b981; text-decoration: none;">Live Demo</a>
-    </p>
-    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
-      › Built an enterprise healthcare platform enabling high-definition, peer-to-peer video consultations powered by <span style="font-weight:bold; color:#ef4444;">WebRTC</span> and custom Socket.IO signaling.
-    </p>
-    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
-      › Complete healthcare management lifecycle including slot booking, doctor availability calendars, and electronic prescription generation.
-    </p>
-    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
-      › Implemented robust role-based authentication and medical record privacy controls for secure patient-doctor interactions.
-    </p>
-  </div>
-
-  <!-- Bunny OS (osbyfun) -->
-  <div style="margin-bottom: 25px;">
-    <h3 style="font-weight: bold; font-size: 20px; color:#10b981; margin-bottom: 6px;">
-      🐰 𝙱𝚞𝚗𝚗𝚢 𝙾𝚂 – <span style="color:#3b82f6;">Retro In-Browser Desktop Operating System</span>
-    </h3>
-    <p style="font-size: 15px; margin: 4px 0 10px 0;">
-      <span style="color:#8b949e; font-weight: 500;">Tech Stack:</span> <span style="color:#e6edf3;">React 19, Tailwind CSS v4, Zustand, Framer Motion, sql.js (In-Browser SQLite)</span>
-    </p>
-    <p style="font-size: 15px; margin-bottom: 8px;">
-      🔗 <a href="https://github.com/keshavagr025/osbyfun" target="_blank" style="font-weight:bold; color:#3b82f6; text-decoration: none;">GitHub Repository</a>
-    </p>
-    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
-      › Retro-inspired desktop operating system simulator featuring an authentic boot sequence, desktop environment, and draggable/stackable window management.
-    </p>
-    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
-      › Features an interactive file-system terminal, client-side database management via <span style="font-weight:bold; color:#ef4444;">sql.js (WebAssembly SQLite)</span>, and retro apps (Minesweeper, Memory Match, Calculator).
-    </p>
-    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
-      › Built with modern frontend engineering principles using Zustand state management and fluid Framer Motion micro-interactions.
-    </p>
-  </div>
-
-</section>
-
-<!-- <section>
-
-  <h2 style="font-size: 28px; font-weight: bold; margin-bottom: 15px;">
-    🏅 𝙷𝙾𝙻𝙾𝙿𝙸𝙽 𝙱𝙰𝙳𝙶𝙴𝚂
-  </h2>
-  <div align="center">
-    <img src="WEBP/badges.png" width="900" alt="Holopin Badges">
-  </div>
-
-</section>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900"> -->
-
+<br/>
 
 <div align="center">
 
