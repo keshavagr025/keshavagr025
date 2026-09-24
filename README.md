@@ -156,76 +156,121 @@
 
 <section>
 
-  <h2 style="font-size: 28px; font-weight: bold; margin-bottom: 15px;">
-    𝙋 𝚁 𝙾 𝙹 𝙴 𝙲 𝚃 𝚂
+  <h2 style="font-size: 28px; font-weight: bold; margin-bottom: 20px;">
+    🚀 𝙁 𝙀 𝘼 𝙏 𝙐 𝙍 𝙀 𝘿 &nbsp; 𝙋 𝙍 𝙾 𝙹 𝙴 𝙲 𝙏 𝚂
   </h2>
 
-  <!-- IntelliHire AI -->
-  <div style="margin-bottom: 20px;">
-    <h3 style="font-weight: bold; font-size: 20px; color:#10b981;">
-      𝚒𝚗𝚝𝚎𝚕𝚕𝚒𝙷𝚒𝚛𝚎 𝙰𝙸 (𝚛𝚎𝚊𝚍𝚢𝙱𝚘𝚜𝚜) – <span style="color:#3b82f6;">𝙼𝙴𝚁𝙽, 𝙵𝚊𝚜𝚝𝙰𝙿𝙸, 𝙿𝚢𝚝𝚑𝚘𝚗</span>
+  <!-- MĀRG-DRISHTI -->
+  <div style="margin-bottom: 25px;">
+    <h3 style="font-weight: bold; font-size: 20px; color:#10b981; margin-bottom: 6px;">
+      🛣️ 𝙼Ā𝚁𝙶-𝙳𝚁𝙸𝚂𝙷𝚃𝙸 – <span style="color:#3b82f6;">National Road Distress Surveillance Portal (PotholeAI)</span>
     </h3>
-    <p style="font-size: 16px; line-height: 1.6;">
-      <span style="font-weight:bold; color:#3b82f6;">GitHub</span> | 
-      <span style="font-weight:bold; color:#3b82f6;">Live Demo</span>
+    <p style="font-size: 15px; margin: 4px 0 10px 0;">
+      <span style="color:#8b949e; font-weight: 500;">Tech Stack:</span> <span style="color:#e6edf3;">YOLOv8, Computer Vision, Python, FastAPI, React, Leaflet/Mapbox (GPS)</span>
     </p>
-    <p style="font-size: 16px; line-height: 1.6; color:#6b7280;">
-      › Implemented scalable backend workflows integrating multiple external APIs for resume analysis, ATS scoring, recommendation systems, and career roadmap generation.
+    <p style="font-size: 15px; margin-bottom: 8px;">
+      🔗 <a href="https://github.com/keshavagr025/Pothole-Detection" target="_blank" style="font-weight:bold; color:#3b82f6; text-decoration: none;">GitHub Repository</a> &nbsp;|&nbsp; 
+      🌐 <a href="https://pothole-detection-pi-lovat.vercel.app" target="_blank" style="font-weight:bold; color:#10b981; text-decoration: none;">Live Demo</a>
     </p>
-    <p style="font-size: 16px; line-height: 1.6; color:#6b7280;">
-      › Awarded <span style="font-weight: bold; color:#ef4444;">Runner-up at Hacksagon 2025</span> among 600+ teams.
+    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
+      › End-to-end Smart City surveillance platform utilizing <span style="font-weight:bold; color:#ef4444;">YOLOv8</span> to detect potholes and road distress from dashcam footage and mobile video streams.
     </p>
-    <p style="font-size: 16px; line-height: 1.6; color:#6b7280;">
-      › Automated PDF parsing and surfaced tailored recommendations via interactive dashboards, reducing average candidate screening time by approximately <span style="font-weight:bold; color:#ef4444;">40%</span>.
+    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
+      › Automatically geo-tags precise <span style="font-weight:bold; color:#ef4444;">GPS coordinates</span> and computes multi-factor severity estimates for damaged road surfaces.
+    </p>
+    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
+      › Dispatches automated maintenance tickets with strict SLAs to responsible civic authorities (<span style="font-weight:bold; color:#3b82f6;">NHAI, PWD Delhi, MCD, MoRTH</span>) with operational resolution tracking.
+    </p>
+  </div>
+
+  <!-- SayCheese.ai -->
+  <div style="margin-bottom: 25px;">
+    <h3 style="font-weight: bold; font-size: 20px; color:#10b981; margin-bottom: 6px;">
+      📸 𝚂𝚊𝚢𝙲𝚑𝚎𝚎𝚜𝚎.𝚊𝚒 – <span style="color:#3b82f6;">Multimodal AI Attendance Management</span>
+    </h3>
+    <p style="font-size: 15px; margin: 4px 0 10px 0;">
+      <span style="color:#8b949e; font-weight: 500;">Tech Stack:</span> <span style="color:#e6edf3;">dlib (128D Face Encodings), Resemblyzer (Voice Biometrics), Scikit-Learn (SVC), Python, React, Supabase</span>
+    </p>
+    <p style="font-size: 15px; margin-bottom: 8px;">
+      🔗 <a href="https://github.com/keshavagr025/SayCheese.ai" target="_blank" style="font-weight:bold; color:#3b82f6; text-decoration: none;">GitHub Repository</a> &nbsp;|&nbsp; 
+      🌐 <a href="https://saycheeseai.vercel.app" target="_blank" style="font-weight:bold; color:#10b981; text-decoration: none;">Live Demo</a>
+    </p>
+    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
+      › Modern classroom attendance system fusing <span style="font-weight:bold; color:#ef4444;">Facial Recognition</span> (128D encodings via dlib & Linear SVM) and <span style="font-weight:bold; color:#ef4444;">Voice Biometrics</span> (Resemblyzer & Librosa) to eliminate proxy attendance.
+    </p>
+    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
+      › Automatically scans classroom photos to detect and log multiple students simultaneously within seconds.
+    </p>
+    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
+      › Generates instant QR codes for swift student onboarding with real-time sync and analytics on <span style="font-weight:bold; color:#3b82f6;">Supabase</span>.
     </p>
   </div>
 
   <!-- CortexCraft AI -->
-  <div style="margin-bottom: 20px;">
-    <h3 style="font-weight: bold; font-size: 20px; color:#10b981;">
-      𝙲𝚘𝚛𝚝𝚎𝚡𝙲𝚛𝚊𝚏𝚝 𝙰𝙸 – <span style="color:#3b82f6;">𝙰𝙸 𝙼𝚘𝚌𝚔 𝙸𝚗𝚝𝚎𝚛𝚟𝚒𝚎𝚠 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖</span>
+  <div style="margin-bottom: 25px;">
+    <h3 style="font-weight: bold; font-size: 20px; color:#10b981; margin-bottom: 6px;">
+      🧠 𝙲𝚘𝚛𝚝𝚎𝚡𝙲𝚛𝚊𝚏𝚝 𝙰𝙸 – <span style="color:#3b82f6;">AI Mock Interview & Developer Learning Platform</span>
     </h3>
-    <p style="font-size: 16px; line-height: 1.6;">
-      <span style="font-weight:bold; color:#3b82f6;">𝙼𝙴𝚁𝙽, 𝙵𝚊𝚜𝚝𝙰𝙿𝙸, 𝙶𝚛𝚘𝚖 (𝙻𝚕𝚊𝚖𝚊 3.3), 𝚂𝚘𝚌𝚔𝚎𝚝.𝙸𝙾</span>
+    <p style="font-size: 15px; margin: 4px 0 10px 0;">
+      <span style="color:#8b949e; font-weight: 500;">Tech Stack:</span> <span style="color:#e6edf3;">Groq (Llama 3.3), FastAPI, React 19, Socket.IO, MongoDB, Recharts</span>
     </p>
-    <p style="font-size: 16px; line-height: 1.6;">
-      <span style="font-weight:bold; color:#3b82f6;">GitHub</span> | 
-      <span style="font-weight:bold; color:#3b82f6;">Live Demo</span>
+    <p style="font-size: 15px; margin-bottom: 8px;">
+      🔗 <a href="https://github.com/keshavagr025/class-topper" target="_blank" style="font-weight:bold; color:#3b82f6; text-decoration: none;">GitHub Repository</a> &nbsp;|&nbsp; 
+      🌐 <a href="https://class-topper-web.onrender.com" target="_blank" style="font-weight:bold; color:#10b981; text-decoration: none;">Live Demo</a>
     </p>
-    <p style="font-size: 16px; line-height: 1.6; color:#6b7280;">
-      › Architected an AI mock interview platform using <span style="font-weight:bold; color:#ef4444;">Groq (Llama 3.3)</span>, increasing candidate shortlist rates by <span style="font-weight:bold; color:#ef4444;">25%</span> and improving interview performance across 100+ sessions.
+    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
+      › Architected an AI mock interview simulator using <span style="font-weight:bold; color:#ef4444;">Groq (Llama 3.3)</span> for ultra-low latency, real-time feedback that boosted interview performance across 100+ sessions.
     </p>
-    <p style="font-size: 16px; line-height: 1.6; color:#6b7280;">
-      › Enabled live collaboration for <span style="font-weight:bold; color:#ef4444;">50+ concurrent users</span> via Socket.IO with sub-100 ms message delivery.
+    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
+      › Powers low-latency real-time collaboration for <span style="font-weight:bold; color:#ef4444;">50+ concurrent users</span> via Socket.IO with sub-100 ms message delivery.
     </p>
-    <p style="font-size: 16px; line-height: 1.6; color:#6b7280;">
-      › Embedded <span style="font-weight:bold; color:#ef4444;">5 AI modules</span> including summaries, quizzes, flashcards, mind maps, and interview coaching with Recharts analytics dashboards.
+    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
+      › Embedded <span style="font-weight:bold; color:#3b82f6;">5 dynamic AI modules</span>: interactive quizzes, mind maps, flashcards, automated summaries, and live coaching analytics.
     </p>
   </div>
 
-  <!-- TradeX AI -->
-  <div style="margin-bottom: 20px;">
-    <h3 style="font-weight: bold; font-size: 20px; color:#10b981;">
-      𝚃𝚛𝚊𝚍𝚎𝚇 𝙰𝙸 (𝚉𝚎𝚛𝚘𝚍𝚑𝚊) – <span style="color:#3b82f6;">𝚂𝚝𝚘𝚌𝚔 𝚃𝚛𝚊𝚍𝚒𝚗𝚐 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖</span>
+  <!-- Wellora (AppointToDoctor) -->
+  <div style="margin-bottom: 25px;">
+    <h3 style="font-weight: bold; font-size: 20px; color:#10b981; margin-bottom: 6px;">
+      🩺 𝚆𝚎𝚕𝚕𝚘𝚛𝚊 (𝙷𝚎𝚊𝚕𝚝𝚑𝚒𝚏𝙽𝚘𝚠) – <span style="color:#3b82f6;">Telehealth & Real-Time Doctor Consultation</span>
     </h3>
-    <p style="font-size: 16px; line-height: 1.6;">
-      <span style="font-weight:bold; color:#3b82f6;">𝙼𝙴𝚁𝙽, 𝙲𝚑𝚊𝚛𝚝.𝚓𝚜, 𝙹𝚆𝚃, 𝙼𝚘𝚗𝚐𝙾𝙳𝙱</span>
+    <p style="font-size: 15px; margin: 4px 0 10px 0;">
+      <span style="color:#8b949e; font-weight: 500;">Tech Stack:</span> <span style="color:#e6edf3;">WebRTC, Socket.IO, React 18, Node.js, Express, MongoDB, Tailwind CSS</span>
     </p>
-    <p style="font-size: 16px; line-height: 1.6;">
-      <span style="font-weight:bold; color:#3b82f6;">GitHub</span> | 
-      <span style="font-weight:bold; color:#3b82f6;">Live Demo</span>
+    <p style="font-size: 15px; margin-bottom: 8px;">
+      🔗 <a href="https://github.com/keshavagr025/AppointToDoctor" target="_blank" style="font-weight:bold; color:#3b82f6; text-decoration: none;">GitHub Repository</a> &nbsp;|&nbsp; 
+      🌐 <a href="https://appoint-to-doctor.vercel.app" target="_blank" style="font-weight:bold; color:#10b981; text-decoration: none;">Live Demo</a>
     </p>
-    <p style="font-size: 16px; line-height: 1.6; color:#6b7280;">
-      › Constructed a Zerodha-inspired stock trading platform with authentication, portfolio management, holdings tracking, and watchlist functionality.
+    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
+      › Built an enterprise healthcare platform enabling high-definition, peer-to-peer video consultations powered by <span style="font-weight:bold; color:#ef4444;">WebRTC</span> and custom Socket.IO signaling.
     </p>
-    <p style="font-size: 16px; line-height: 1.6; color:#6b7280;">
-      › Initiated RESTful APIs and MongoDB-backed services to manage orders, positions, transactions, and user portfolios.
+    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
+      › Complete healthcare management lifecycle including slot booking, doctor availability calendars, and electronic prescription generation.
     </p>
-    <p style="font-size: 16px; line-height: 1.6; color:#6b7280;">
-      › Implemented JWT authentication and <span style="font-weight:bold; color:#ef4444;">role-based access control</span> to secure trading operations and user data.
+    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
+      › Implemented robust role-based authentication and medical record privacy controls for secure patient-doctor interactions.
     </p>
-    <p style="font-size: 16px; line-height: 1.6; color:#6b7280;">
-      › Integrated Chart.js-powered market visualizations and analytics dashboards for 10+ simulated stocks, delivering an intuitive trading experience.
+  </div>
+
+  <!-- Bunny OS (osbyfun) -->
+  <div style="margin-bottom: 25px;">
+    <h3 style="font-weight: bold; font-size: 20px; color:#10b981; margin-bottom: 6px;">
+      🐰 𝙱𝚞𝚗𝚗𝚢 𝙾𝚂 – <span style="color:#3b82f6;">Retro In-Browser Desktop Operating System</span>
+    </h3>
+    <p style="font-size: 15px; margin: 4px 0 10px 0;">
+      <span style="color:#8b949e; font-weight: 500;">Tech Stack:</span> <span style="color:#e6edf3;">React 19, Tailwind CSS v4, Zustand, Framer Motion, sql.js (In-Browser SQLite)</span>
+    </p>
+    <p style="font-size: 15px; margin-bottom: 8px;">
+      🔗 <a href="https://github.com/keshavagr025/osbyfun" target="_blank" style="font-weight:bold; color:#3b82f6; text-decoration: none;">GitHub Repository</a>
+    </p>
+    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
+      › Retro-inspired desktop operating system simulator featuring an authentic boot sequence, desktop environment, and draggable/stackable window management.
+    </p>
+    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
+      › Features an interactive file-system terminal, client-side database management via <span style="font-weight:bold; color:#ef4444;">sql.js (WebAssembly SQLite)</span>, and retro apps (Minesweeper, Memory Match, Calculator).
+    </p>
+    <p style="font-size: 15px; line-height: 1.6; color:#8b949e; margin: 4px 0;">
+      › Built with modern frontend engineering principles using Zustand state management and fluid Framer Motion micro-interactions.
     </p>
   </div>
 
