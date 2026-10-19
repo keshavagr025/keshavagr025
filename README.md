@@ -247,7 +247,6 @@ Low-latency peer-to-peer HD video consultations built on **WebRTC** with custom 
 
 <br/>
 
-<br/>
 
 <div align="center">
 
