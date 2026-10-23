@@ -73,7 +73,7 @@
 
 </td>
 <td valign="top" width="40%" align="right">
-  <img height="300" width="400" src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871">
+  <img height="300" width="400" src="GIF\work.gif">
 </td>
 </tr>
 </table>
