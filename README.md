@@ -244,13 +244,9 @@ Low-latency peer-to-peer HD video consultations built on **WebRTC** with custom 
 
 </div>
 
-<details>
-<summary>🎲 <b>Click for a totally scientific developer superstition</b></summary>
-<br/>
-<p align="center"><i>"It works on my machine" is not a bug report, it's a lifestyle. 🐛☕</i></p>
-</details>
 
 <br/>
+
 
 <div align="center">
 
